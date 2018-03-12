@@ -1,1 +1,2 @@
-git learn
+git learn first step
+let's get start
